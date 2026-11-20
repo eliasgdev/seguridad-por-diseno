@@ -4,6 +4,10 @@ Skill para **Claude Code** con normas de ciberseguridad para **crear y revisar**
 
 Está pensada para Node.js/Express + Angular + PostgreSQL (desplegados en Render, Netlify, Neon o Cloudflare), pero las reglas sirven para cualquier stack.
 
+## Origen
+
+Estas normas salieron de auditorías y endurecimiento de seguridad que hice sobre sistemas propios y de clientes alojados en repositorios privados (APIs multi-negocio, webhooks, paneles de administración y bases PostgreSQL). Cada regla responde a un hallazgo real o a algo que hubo que corregir.
+
 ## Qué hace
 
 Tiene dos modos:
